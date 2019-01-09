@@ -5,9 +5,12 @@ phases:
     commands:
       - npm install
       - npm install -g jest
+  pre_build:
+    commands:
+      - echo Build start
   build:
     commands:
       - jest
   post_build:
     commands:
-      - echo Build completed
+      - echo Build complete
