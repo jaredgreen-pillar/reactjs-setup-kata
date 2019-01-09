@@ -10,7 +10,4 @@ phases:
       - jest
   post_build:
     commands:
-      - echo Build completed on `date`
-artifacts:
-  files:
-    - App.js
+      - echo Build completed
