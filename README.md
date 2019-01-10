@@ -1,6 +1,6 @@
 # Reactjs-setup-kata
 
-https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUFc3NUFib0RScDJpU3dSaHFEejhvOVZ4K1BTQnlUZGw3YWp2dW5uYkNzNEdKRVBGQlIwVnNYZ3JIemdHZHBhWDRMQ2NFZDhHTHM1RTBpYWQ3RUgyQWpVPSIsIml2UGFyYW1ldGVyU3BlYyI6IjliMWFiaW1BWnppR2tBMnQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
+![Build Status - master branch](https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUFc3NUFib0RScDJpU3dSaHFEejhvOVZ4K1BTQnlUZGw3YWp2dW5uYkNzNEdKRVBGQlIwVnNYZ3JIemdHZHBhWDRMQ2NFZDhHTHM1RTBpYWQ3RUgyQWpVPSIsIml2UGFyYW1ldGVyU3BlYyI6IjliMWFiaW1BWnppR2tBMnQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 ## Available Scripts
 
