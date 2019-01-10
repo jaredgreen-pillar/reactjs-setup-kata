@@ -13,4 +13,4 @@ phases:
       - jest
   post_build:
     commands:
-      - echo Build complete
+      - echo Build completed
