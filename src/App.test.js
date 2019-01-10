@@ -14,7 +14,7 @@ it('has a button', () => {
 
   const button = appComponent.find('button');
 
-  expect(button.text()).toEqual('Submit TODO');
+  expect(button.text()).toEqual('Submit');
 });
 
 it('has a button', () => {
